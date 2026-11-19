@@ -6,7 +6,15 @@
   <img src="fig1.png" width="1000" />
 </p>
 
-### Event cameras offer asynchronous sensing advantages that provide effective modality information for counter-UAV tasks. While counter-UAV algorithms based on event cameras are constantly emerging, they are limited by edge-device computing power. The special asynchronous processing requirements also mean that there are currently few counter-UAV detection devices designed directly for mobile phones. To solve the "last mile" problem of counter-UAV and improve the flexibility and portability of drone detection, we developed this drone detection software that can be directly linked to event cameras.
+### 📖 Overview
+
+**Event cameras** offer asynchronous sensing advantages that provide effective modality information for counter-UAV tasks. However, deploying these algorithms presents two main challenges:
+
+* **Edge-computing limitations:** Existing algorithms are constrained by the limited computing power of edge devices.
+* **Processing complexity:** The unique asynchronous processing requirements result in a scarcity of counter-UAV detection devices designed specifically for mobile phones.
+
+#### 💡 Our Solution
+To solve the **"last mile"** problem of counter-UAV operations and enhance the flexibility and portability of drone detection, we have developed this software that can **directly link to event cameras** on mobile devices.
 
 <p align="center">
   <img src="val.gif" width="500" />
