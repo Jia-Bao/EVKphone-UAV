@@ -12,6 +12,15 @@
   <img src="val.gif" width="500" />
 </p>
 
+### 🚀 ASUMOT Optimization
+
+* **Model Quantization**: Quantized the multi-task validation network.
+* **Batch Processing**: Implemented batch processing for validation.
+
+**Results:**
+* ✅ **Improved Inference Speed**: Achieves real-time asynchronous tracking on mobile phones.
+* ⚖️ **Trade-off**: Quantization slightly reduces UAV recognition capability but significantly improves overall operational efficiency.
+
 ## Cite
 The mobile phone software follows [EVKphone] ([code](https://github.com/Jia-Bao/EVKphone)).
 
