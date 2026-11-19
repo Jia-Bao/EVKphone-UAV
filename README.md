@@ -32,4 +32,4 @@ To solve the **"last mile"** problem of counter-UAV operations and enhance the f
 ## Cite
 The mobile phone software follows [EVKphone] ([code](https://github.com/Jia-Bao/EVKphone)).
 
-The asynchronous Ant-UAV methodology follows [ASUMOT](https://arxiv.org/abs/2607.11303) ([code](https://github.com/Jia-Bao/ASUMOT)).
+The asynchronous Anti-UAV methodology follows [ASUMOT](https://arxiv.org/abs/2607.11303) ([code](https://github.com/Jia-Bao/ASUMOT)).
