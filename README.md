@@ -14,7 +14,7 @@
 * **Processing complexity:** The unique asynchronous processing requirements result in a scarcity of counter-UAV detection devices designed specifically for mobile phones.
 
 #### 💡 Our Solution
-To solve the **"last mile"** problem of counter-UAV operations and enhance the flexibility and portability of drone detection, we have developed this software that can **directly link to event cameras** on mobile devices.
+To solve the **"last mile"** problem of Anti-UAV operations and enhance the flexibility and portability of drone detection, we have developed this software that can **directly link to event cameras** on mobile devices.
 
 <p align="center">
   <img src="val.gif" width="500" />
